@@ -10,6 +10,6 @@
 |------|----------|
 | `Python` · `Scikit-Learn` | Modeling & evaluation |
 | `Pandas` | EDA & data exploration |
-| `RFECV` · `Lasso L1` | Feature selection |
+| `RFECV` · `Lasso L1` · 'Backward selection' · 'Forward Selection' | Feature selection |
 | `Confusion Matrix` · `Recall` | Metric-driven evaluation |
 [![Open in Colab](https://colab.research.google.com/drive/1veHpFXVyh0k0SOLeOmn_nNlUyGc2zm5-?usp=sharing)]
